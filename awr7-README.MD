@@ -1,0 +1,1 @@
+spark-submit --class com.yourdomain.WineQualityModel --master yarn /home/hadoop/WineQualityPrediction-1.0-SNAPSHOT.jar s3://aws-logs-058264353971-us-east-1/TrainingDataset.csv s3://aws-logs-058264353971-us-east-1/ValidationDataset.csv
