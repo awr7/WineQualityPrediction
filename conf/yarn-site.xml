@@ -26,27 +26,27 @@
 
   <property>
     <name>yarn.timeline-service.hostname</name>
-    <value>ip-172-31-40-114.ec2.internal</value>
+    <value>ec2-3-91-13-32.compute-1.amazonaws.com</value>
   </property>
 
   <property>
     <name>yarn.web-proxy.address</name>
-    <value>ip-172-31-40-114.ec2.internal:20888</value>
+    <value>ec2-3-91-13-32.compute-1.amazonaws.com:20888</value>
   </property> 
 
   <property>
     <name>yarn.resourcemanager.resource-tracker.address</name>
-    <value>ip-172-31-40-114.ec2.internal:8025</value>
+    <value>ec2-3-91-13-32.compute-1.amazonaws.com:8025</value>
   </property>
 
   <property>
     <name>yarn.resourcemanager.address</name>
-    <value>ip-172-31-40-114.ec2.internal:8032</value>
+    <value>ec2-3-91-13-32.compute-1.amazonaws.com:8032</value>
   </property>
 
   <property>
     <name>yarn.resourcemanager.scheduler.address</name>
-    <value>ip-172-31-40-114.ec2.internal:8030</value>
+    <value>ec2-3-91-13-32.compute-1.amazonaws.com:8030</value>
   </property>
 
   <property>
@@ -376,7 +376,7 @@
 
   <property>
     <name>yarn.resourcemanager.hostname</name>
-    <value>172.31.40.114</value>
+    <value>ec2-3-91-13-32.compute-1.amazonaws.com</value>
   </property>
 
   <property>
